@@ -44,7 +44,7 @@ export const profile = {
   phone: "+1 (312)-292-8756",
   linkedin: "https://www.linkedin.com/in/shreevaths-rao-7aa42417b/",
   github: "https://github.com/shree-vaths",
-  resumeUrl: "https://docs.google.com/document/d/1tB9oSkPpxQXsr1WrXLx26tpVhzXlKzym/edit?usp=sharing&ouid=101817616220920780603&rtpof=true&sd=true", //  PDF /public
+  resumeUrl: "https://drive.google.com/file/d/1PXgBC8Qb_X6vqA3Tu9OF0Cc4EMjUOgg5/view?usp=sharing",
 
   summary:
     "Full-stack engineer with experience in high level designing and implementing digital consumer experiences based on a foundation of computer science in B2B and B2C domain",
